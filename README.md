@@ -4,6 +4,7 @@ This project is a clone of Apple's iPhone 15 Pro website, built using React.js a
 If you need assistance or encounter any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
 ⚙️ Tech Stack
+
 React.js
 Three.js
 React Three Fiber
@@ -11,7 +12,9 @@ React Three Drei
 GSAP (Greensock)
 Vite
 Tailwind CSS
+
 🔋 Features
+
 👉 Beautiful Subtle Smooth Animations using GSAP: Enhanced user experience with seamless and captivating animations powered by GSAP.
 
 👉 3D Model Rendering with Different Colors and Sizes: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
